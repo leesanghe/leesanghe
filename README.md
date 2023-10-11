@@ -91,3 +91,15 @@ ___
 -항목1
 -항목 1-1
 
+
+13. 이모지 추가하기 관련 URL
+    ```  :1 ``` 
+- 오늘의 날씨느 👍
+- 나는 오늘🥇👍 해서 💯
+ 
+  14 배지 추가
+  [배지 달기(언어 ,기술 ,개발 , 도구 , 자격](http://simpleicons.org)
+```배치 샘플 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=JAVA&logoColoer=whit" />```
+
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=JAVA&logoColoer=whit" />`
+
