@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=sang&animation=blinking&color=auto)
+![header](https://capsule-render.vercel.app/api?text=sang&animation=blinking&color=green&fontColor=white)
 
 
 <!--![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=lee%20.sang&fontSize=90)-->
