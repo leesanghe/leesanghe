@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=sang&animation=twinkling&color=1fbd85)
+![header](https://capsule-render.vercel.app/api?text=sang&animation=fadeIn&color=1fbd85)
 
 
 
