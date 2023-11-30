@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="center" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leesanghe&show_icons=true&hide_border=true" />
-<img align="center" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leesanghe&show_icons=true&hide_border=true" />
 
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
